@@ -1,2 +1,11 @@
-"Order Reference","Order Period","Supplier Name","Order Total Amount","Order Status","Invoice References"
-2,"January 10, 2022","MOTTOWAY CORP.","    750,000.00","Open","INV_PO002.2|INV_PO002.3|INV_PO002.4"
+"Supplier Name","Supplier Contact Name","Supplier Contact No. 1","Supplier Contact No. 2","Total Orders","Order Total Amount"
+"MOTTOWAY CORP.","Stevens Seernah"," 5794-2513","",2,6569625
+"DIGISAY CO. LTD.","Berry Parker"," 5784-1266","  602-8010",1,57300
+"LAMBONI STAT INC.","Frederic Pey"," 5255-7435","",2,50000
+"EMTELLO LTD","Megan Hembly","  242-0641"," 5784-1698",1,21000
+"STUFFIE STATIONERY","Zenhir Belall","  654-7416","",1,250000
+"SAFEDEST TAXI SERVICES","Steeve Narsimullu"," 5874-1002","  217-4512",1,26700
+"JINFIX COMPUTERS","Jordan Liu Min"," 5841-2556","  219-5412",1,85200
+"FIRELAND BROS.","Amelia Bridney"," 5948-0015","",1,36800
+"FOXY ELECTRONICS","Reddy Floyd"," 5284-5412","",1,182700
+"PEGASUS LTD","Georges Neeroo","  461-5841"," 5741-2545",2,275000
